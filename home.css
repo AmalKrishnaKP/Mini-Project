@@ -90,9 +90,9 @@ p {
 .main-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 70px;
+    gap: 50px;
     justify-content: center;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 60px;
 }
 
