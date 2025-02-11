@@ -87,23 +87,6 @@ p {
     transform: scale(1.05);
 }
 
-.menu-on {
-    margin: 0;
-    font-size: 15px;
-    font-weight: 700;
-    color: rgba(15, 98, 254, 1);
-    cursor: pointer;
-}
-
-.rectangle {
-    width: 60px;
-    height: 3px;
-    background-color: rgba(15, 98, 254, 1);
-    position: absolute;
-    top: 65px;
-    right: 295.5px;
-}
-
 .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -185,25 +168,13 @@ p {
     }
 
     .menu {
-        font-size: 7px;
-    }
-    
-    .menu-on {
-        font-size: 7px;
-        font-weight: 700;
+        font-size: 9px;
     }
 
     .menu-container {
         top: 25px;
         right: 15px;
         gap: 15px;
-    }
-    
-    .rectangle {
-        width: 27px;
-        height: 2px;
-        top: 37px;
-        right: 131.5px;
     }
 
     .main-container {
