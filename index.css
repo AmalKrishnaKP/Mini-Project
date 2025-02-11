@@ -64,6 +64,10 @@ p {
     margin: 0;
 }
 
+section {
+    flex: 1;
+}
+
 form {
     margin: 20px auto;
     padding: 50px;
@@ -174,9 +178,9 @@ form input[type="text"]:focus {
     color: rgba(112, 112, 112, 1);
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 500px) {
     header {
-        height: 55px;
+        height: 50px;
     }
 
     footer {
@@ -203,42 +207,48 @@ form input[type="text"]:focus {
     }
 
     .login-button {
-        margin-top: -25px;
+        margin-top: 35px;
         padding: 8px 15px;
-        font-size: 10px;
+        font-size: 13.4px;
     }
 
     form input[type="text"] {
         padding: 4px;
-        font-size: 8px;
+        font-size: 10.8px;
     }
 
     .form-group {
         margin-bottom: 2px;
-        margin-top: -15px;
+        margin-top: -10px;
     }
 
     .form-group label {
         margin-top: -5px;
         margin-bottom: 2px;
-        font-size: 7px;
+        font-size: 9.4px;
     }
 
     .login-title {
-        font-size: 13px;
-        margin-bottom: 30px;
+        font-size: 17.4px;
+        margin-top: 10px;
     }
     
     .forgot-password-link {
-        font-size: 7px;
-        margin-top: -25px;
+        font-size: 9.4px;
+        margin-top: -7px;
     }
 
     p {
-        font-size: 9px;
+        font-size: 12px;
     }
     
     .footer-style {
-        font-size: 7px;
+        font-size: 9.4px;
+    }
+
+    .input-icon {
+        right: 5px;
+        top: 53%;
+        width: 20px;
     }
 }
