@@ -250,12 +250,12 @@ form button:focus {
         bottom: 1.5px;
         right: 1.5px;
         display: flex;
-        gap: 8px;
+        gap: 15px;
     }
     
     .square-btn {
-        width: 12.5px;
-        height: 12.5px;
+        width: 14px;
+        height: 14px;
         padding: 1px;
         border-radius: 2px;
         border: .1px solid #c9c9c9;
@@ -270,8 +270,8 @@ form button:focus {
     }
     
     .img-chr {
-        width: 7px;
-        height: 7.5px;
+        width: 7.2px;
+        height: 8px;
     }
     
     .button-type {
