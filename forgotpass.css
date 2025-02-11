@@ -3,7 +3,8 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
+    background-attachment: fixed; /* Keeps the background fixed */
+    min-height: 100vh;
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
@@ -167,7 +168,7 @@ form button {
     width: 100%;
     background: rgba(15, 98, 254, 1);
     color: white;
-    margin-top: 10px;
+    margin-top: -10px;
     border: none;
     padding: 16px 30px;
     border-radius: 5px;
@@ -238,7 +239,7 @@ form button:focus {
 
     .reset-title {
         font-size: 14px;
-        margin-bottom: -10px;
+        margin-bottom: -7px;
     }
     
     .resend {
