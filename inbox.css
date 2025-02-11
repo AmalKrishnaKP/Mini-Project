@@ -264,7 +264,7 @@ form button:focus {
     }
 
     p {
-        font-size: 9px;
+        font-size: 11px;
     }
     
     .footer-style {
@@ -272,7 +272,7 @@ form button:focus {
     }
 
     .menu {
-        font-size: 7px;
+        font-size: 9px;
     }
 
     .menu-container {
@@ -282,11 +282,11 @@ form button:focus {
     }
 
     .highlight-text {
-        font-size: 4.5px;
+        font-size: 6.5px;
     }
     
     .main-content {
-        gap: 5px;
+        gap: 7px;
     }
     
     .content-section {
@@ -307,7 +307,7 @@ form button:focus {
     }
     
     .information-type {
-        font-size: 5.5px;
+        font-size: 7.5px;
     }
     
     .button-container {
@@ -321,7 +321,7 @@ form button:focus {
         width: 60px;
         height: 20px;
         border-radius: 2px;
-        font-size: 7px;
+        font-size: 9px;
     }
 
     .pdf-box-small {
@@ -332,10 +332,10 @@ form button:focus {
     
     .pdf-box-content {
         margin-left: 25px;
-        font-size: 5.5px;
+        font-size: 7.5px;
     }
 
     .info-new-type {
-        font-size: 5px;
+        font-size: 7px;
     }
 }
