@@ -58,7 +58,7 @@ p {
 }
 
 section {
-    float: 1;
+    flex: 1;
 }
 
 .footer-style {
@@ -243,7 +243,7 @@ form button:focus {
     
     .resend {
         font-size: 7px;
-        margin-top: -25px;
+        margin-top: -16.5px;
     }
 
     .no-otp {
