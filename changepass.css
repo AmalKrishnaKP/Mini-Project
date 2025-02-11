@@ -220,7 +220,7 @@ form button:focus {
     }
 
     p {
-        font-size: 9px;
+        font-size: 11px;
     }
     
     .footer-style {
@@ -228,7 +228,8 @@ form button:focus {
     }
 
     .menu {
-        font-size: 7px;
+        font-size: 9px;
+        right: 5;
     }
     
     .menu-on {

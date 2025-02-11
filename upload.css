@@ -323,7 +323,7 @@ form button:hover {
     }
 
     p {
-        font-size: 9px;
+        font-size: 11px;
     }
     
     .footer-style {
@@ -381,7 +381,8 @@ form button:hover {
     }
 
     .menu {
-        font-size: 7px;
+        font-size: 9px;
+        right: 5;
     }
 
     .menu-container {
