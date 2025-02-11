@@ -291,12 +291,12 @@ form button:hover {
 
     form button {
         padding: 8px 15px;
-        font-size: 10px;
+        font-size: 12px;
     }
 
     form input[type="text"] {
         padding: 4px;
-        font-size: 8px;
+        font-size: 10px;
     }
 
     .form-group {
@@ -307,18 +307,13 @@ form button:hover {
     .form-group label {
         margin-top: -5px;
         margin-bottom: 2px;
-        font-size: 7px;
+        font-size: 9px;
     }
 
     .upload-title {
-        font-size: 13px;
+        font-size: 15px;
         margin-bottom: 25px;
         margin-top: 10px;
-    }
-    
-    .forgot-password-link {
-        font-size: 7px;
-        margin-top: -25px;
     }
 
     p {
@@ -334,7 +329,7 @@ form button:hover {
     }
     
     .information-type {
-        font-size: 5.5px;
+        font-size: 7.5px;
         font-weight: 550;
     }
     
@@ -366,16 +361,16 @@ form button:hover {
     
     .pdf-box-content {
         margin-left: 25px;
-        font-size: 5.5px;
+        font-size: 7.5px;
     }
     
     .info-new-type {
-        font-size: 5px;
+        font-size: 7px;
     }
 
     select {
         padding: 12px;
-        font-size: 7.5px;
+        font-size: 9.5px;
         border-radius: 5px;
     }
 
