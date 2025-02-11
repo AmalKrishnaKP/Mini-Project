@@ -95,15 +95,6 @@ p {
     cursor: pointer;
 }
 
-.rectangle {
-    width: 155px;
-    height: 3px;
-    background-color: rgba(15, 98, 254, 1);
-    position: absolute;
-    top: 65px;
-    right: 116.5px;
-}
-
 form {
     margin: 20px auto;
     padding: 50px;
@@ -249,12 +240,5 @@ form button:focus {
         top: 25px;
         right: 15px;
         gap: 15px;
-    }
-    
-    .rectangle {
-        width: 70px;
-        height: 2px;
-        top: 37px;
-        right: 53px;
     }
 }
