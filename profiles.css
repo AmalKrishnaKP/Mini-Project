@@ -216,6 +216,7 @@ form button:focus {
     }
 
     .menu {
+        right: 5px;
         font-size: 9px;
     }
 
