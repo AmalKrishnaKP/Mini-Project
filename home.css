@@ -128,7 +128,7 @@ p {
 }
 
 .item:hover {
-    background: rgb(245, 244, 244);
+    background: rgb(250, 250, 250);
     transform: scale(1.01);
 }
 
