@@ -118,14 +118,13 @@ p {
     width: 75px;
     height: auto;
     object-fit: cover;
-    border-radius: 8px;
 }
 
 .item-text {
     font-size: 15px;
     color: rgba(15, 98, 254, 1);
     margin-top: 8px;
-    font-weight: 520;
+    font-weight: 550;
 }
 
 .item:hover {
